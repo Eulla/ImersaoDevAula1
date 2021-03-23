@@ -1,0 +1,36 @@
+body {
+  font-family: 'Stencil Std',fantasy;
+  min-height: 600px;
+  background-image: url('https://i.postimg.cc/2yvtZHVc/2603-foto-blog.jpg');
+  background-color: #000000;
+  background-size: 250vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #000000;
+  margin: 0 0 50px;
+}
+
+.page-subtitle {
+  color: #000000;
+  margin-top: 50px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
